@@ -3,7 +3,7 @@
 <h2>Ein Beispieldatensatz mit 1.886 Datensätzen</h2>
 
 <a href="https://brightdata.de">
-    <img src="https://github.com/luminati-io/6sense-company-information-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-data-de/6sense-company-information-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 Dieses **6sense Company Information Dataset Sample** umfasst **1.886 Datensätze** und wurde mithilfe der **Bright Data API** extrahiert.
